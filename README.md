@@ -319,7 +319,9 @@ This project features **Friends App**, a logic-driven interactive contact manage
 
 > [!IMPORTANT]
 > ### 🏛️ Original Deployment Archive
-> The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**. The project was described as: *"About Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku."*
+> The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**.
+>
+> **About**: *"Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku."*
 >
 > **Heroku Deployment Link**: [rubyonrailsfriendwebapp.herokuapp.com](https://rubyonrailsfriendwebapp.herokuapp.com/)
 >
