@@ -311,15 +311,17 @@ Copyright © 2022 Amey Thakur & Mega Satish
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)
 
+**Relevant Repository**: [RailsFriends - Amey Thakur](https://github.com/Amey-Thakur/RAILSFRIENDS) (Active Deployment on Render)
+
 **Collaborator's Repository**: [Ruby on Rails Friends App - Mega Satish](https://github.com/msatmod/friendsapp)
 
 This project features **Friends App**, a logic-driven interactive contact management system. It represents a personal exploration into **Rails**-based class orchestration and high-performance web design. It was developed as a key project within the **[30-Day Ruby Challenge](https://amey-thakur.github.io/RUBY/)**, marking a significant step in the mastery of the framework as our **First Ruby on Rails Project**.
 
 > [!IMPORTANT]
 > ### 🏛️ Original Deployment Archive
-> The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**, serving as a live demonstration of the production capabilities.
+> The application was originally deployed on **[Heroku](https://rubyonrailsfriendwebapp.herokuapp.com/)** by **[Mega Satish](https://github.com/msatmod)**. The project was described as: *"About Friends App Using Ruby on Rails with PostgreSQL database deployed on Heroku."*
 >
-> Heroku Deployment Link - https://rubyonrailsfriendwebapp.herokuapp.com/
+> **Heroku Deployment Link**: [rubyonrailsfriendwebapp.herokuapp.com](https://rubyonrailsfriendwebapp.herokuapp.com/)
 >
 > **Note**: This link is preserved here for historical context and authenticity of the initial launch.
 
