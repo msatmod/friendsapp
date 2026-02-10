@@ -10,7 +10,7 @@
 
   A high-fidelity, modular web-based Contact Management System engineered in Ruby on Rails, demonstrating strict adherence to Model-View-Controller (MVC) principles and responsive User Interface (UI) design within a browser environment.
 
-  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Live Demo](https://rubyonrailsfriendwebapp.herokuapp.com/)**
+  **[Source Code](Source%20Code/)** &nbsp;·&nbsp; **[Technical Specification](docs/SPECIFICATION.md)** &nbsp;·&nbsp; **[Live Demo](https://railsfriends-djxy.onrender.com/)**
 
 </div>
 
@@ -271,7 +271,7 @@ rails test
 >
 > You can interact with the app instantly in your browser without any installation via our Cloud deployment:
 >
-> 👉🏻 **[Launch Friends App Live](https://rubyonrailsfriendwebapp.herokuapp.com/)**
+> 👉🏻 **[Launch Friends App Live](https://railsfriends-djxy.onrender.com/)**
 
 ---
 
@@ -341,7 +341,7 @@ Special thanks to the **mentors and peers** whose encouragement, discussions, an
 
   <br>
 
-  <a href="https://amey-thakur.github.io/RUBY/"><img src="docs/Rails_Logo.png" width="30" height="auto" valign="middle"></a> **[Friends App](https://rubyonrailsfriendwebapp.herokuapp.com/)**
+  <a href="https://amey-thakur.github.io/RUBY/"><img src="docs/Rails_Logo.png" width="30" height="auto" valign="middle"></a> **[Friends App](https://railsfriends-djxy.onrender.com/)**
 
   ---
 
