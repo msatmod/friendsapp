@@ -326,6 +326,8 @@ This project features **Friends App**, a logic-driven interactive contact manage
 > **Heroku Deployment Link**: [rubyonrailsfriendwebapp.herokuapp.com](https://rubyonrailsfriendwebapp.herokuapp.com/)
 >
 > **Note**: This link is preserved here for historical context and authenticity of the initial launch.
+>
+> **Note**: Due to Heroku's discontinuation of their free tier services, the active live deployment has been migrated to Render.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/amey-thakur) &nbsp;·&nbsp; [ORCID](https://orcid.org/0000-0001-5644-1575)
 
