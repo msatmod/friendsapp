@@ -311,9 +311,9 @@ Copyright © 2022 Amey Thakur & Mega Satish
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)
 
-**Relevant Repository**: [RailsFriends - Amey Thakur](https://github.com/Amey-Thakur/RAILSFRIENDS) (Active Deployment on Render)
+**Relevant Repository**: [RailsFriends - Amey Thakur](https://github.com/Amey-Thakur/RAILSFRIENDS) (Active Deployment on Render) (Personal Fork of the Project)
 
-**Collaborator's Repository**: [Ruby on Rails Friends App - Mega Satish](https://github.com/msatmod/friendsapp)
+**Collaborator's Repository**: [Ruby on Rails Friends App - Mega Satish](https://github.com/msatmod/friendsapp) (Original Repository used for Coding and Deployment)
 
 This project features **Friends App**, a logic-driven interactive contact management system. It represents a personal exploration into **Rails**-based class orchestration and high-performance web design. It was developed as a key project within the **[30-Day Ruby Challenge](https://amey-thakur.github.io/RUBY/)**, marking a significant step in the mastery of the framework as our **First Ruby on Rails Project**.
 
