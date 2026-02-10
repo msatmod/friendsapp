@@ -311,7 +311,7 @@ Copyright © 2022 Amey Thakur & Mega Satish
 
 **Created & Maintained by**: [Amey Thakur](https://github.com/Amey-Thakur) & [Mega Satish](https://github.com/msatmod)
 
-**Relevant Repository**: [RailsFriends - Amey Thakur](https://github.com/Amey-Thakur/RAILSFRIENDS) (Active Deployment on Render) (Personal Fork of the Project)
+**Relevant Repository**: [RailsFriends - Amey Thakur](https://github.com/Amey-Thakur/RAILSFRIENDS) (Active Deployment on Render)
 
 **Collaborator's Repository**: [Ruby on Rails Friends App - Mega Satish](https://github.com/msatmod/friendsapp) (Original Repository used for Coding and Deployment)
 
