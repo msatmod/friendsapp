@@ -1,8 +1,8 @@
-# Technical Specification: RUBY-ON-RAILS-FRIENDSAPP
+# Technical Specification: Ruby on Rails Friends App
 
 ## Architectural Overview
 
-**RUBY-ON-RAILS-FRIENDSAPP** is a production-grade, modular web application engineered to demonstrate the efficiency and elegance of the **Ruby on Rails** Model-View-Controller (MVC) architecture. The project serves as a comprehensive implementation of fundamental full-stack engineering principles, including relational state management, secure user authentication, and responsive HMI design for the modern web.
+**Ruby on Rails Friends App** is a production-grade, modular web application engineered to demonstrate the efficiency and elegance of the **Ruby on Rails** Model-View-Controller (MVC) architecture. The project serves as a comprehensive implementation of fundamental full-stack engineering principles, including relational state management, secure user authentication, and responsive HMI design for the modern web.
 
 ### Logic Flow (MVC Orchestration)
 
@@ -47,4 +47,4 @@ graph TD
 
 ---
 
-*Technical Specification | RUBY-ON-RAILS-FRIENDSAPP | Version 1.0*
+*Technical Specification | Ruby on Rails Friends App | Version 1.0*
