@@ -1,3 +1,21 @@
+# ==============================================================================
+# Filename: application.rb
+#
+# Author: Amey Thakur (https://github.com/Amey-Thakur)
+#         Mega Satish (https://github.com/msatmod)
+#
+# Repository: https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP
+# Release Date: 31 May 2022
+# License: MIT
+#
+# Description:
+# The `Application` class defines the core configuration settings for the RUBY-ON-RAILS-FRIENDSAPP ecosystem. It acts as the central registry for framework defaults, middleware integration, and engine loading.
+#
+# Architecture:
+# - Framework: Loads `rails/all` (Active Record, Active Job, etc.).
+# - Defaults: Initializes configuration for Rails 7.0.
+# ==============================================================================
+
 require_relative "boot"
 
 require "rails/all"
