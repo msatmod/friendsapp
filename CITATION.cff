@@ -11,3 +11,7 @@ title: "RUBY-ON-RAILS-FRIENDSAPP"
 version: 1.0.0
 date-released: 2022-05-31
 url: "https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP"
+identifiers:
+  - type: other
+    value: "2022-06-01"
+    description: "Date this repository was created on GitHub."

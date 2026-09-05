@@ -1,0 +1,33 @@
+# <a href="https://amey-thakur.github.io/RUBY/"><img src="docs/Rails_Logo.png" height="55" valign="middle"></a> <br> Friends App
+
+> Friends App Using Ruby on Rails with PostgreSQL database deployed on
+> Heroku. [Heroku → Render]
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering
+Licence: CC BY 4.0, attribution required
+Repository created: 1 June 2022
+Work dated: 31 May 2022
+
+## What is in this repository
+
+- Mega, 6 files
+- Source Code, 119 files
+- docs, 2 files
+- screenshots, 12 files
+
+## Subject terms
+
+crud, crud-operation, devise-authentication, heroku, heroku-deployment,
+postgresql, postgresql-database, rails-application, rails7, render, ruby,
+ruby-gems, ruby-on-rails, rubyonrails, rubyonrailscourse
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/RUBY-ON-RAILS-FRIENDSAPP
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Project page: https://railsfriends-djxy.onrender.com
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
